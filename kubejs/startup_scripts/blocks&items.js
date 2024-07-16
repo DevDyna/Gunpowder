@@ -2,12 +2,12 @@ StartupEvents.registry("item", (event) => {
   event
     .create("medikit_portable")
     .texture("kubejs:item/bag")
+    .glow(true)
     .displayName("§aPortable Medikit");
 
   event
     .create("hp_point")
     .displayName("§cHeart Points")
-    .glow(true)
     .texture("kubejs:item/heal");
 
     //BUGGED
