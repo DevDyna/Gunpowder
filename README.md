@@ -1,5 +1,5 @@
 # Gunpowder
- Minecraft Modpack based for Server Gamemode
+ Minecraft Modpack to allow to play battle royale on dedicate server 
  
  
 # All Features:
