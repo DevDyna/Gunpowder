@@ -38,7 +38,7 @@ Mod used:
 -Searchables-forge-1.20.1-1.0.3.jar 
 -sound-physics-remastered-forge-1.20.1-1.4.5.jar 
 -tacz-1.20.1-1.0.2-release.jar 
--tia-1.20-1.1-forge.jar 
+-tia-1.20-1.1-forge.jar.disabled 
 -vc_gliders-forge-1.1.5.jar 
 -walljump-1.20.1-1.2.1-forge.jar 
 -WI-Zoom-1.5-MC1.20.1-Forge.jar 
