@@ -30,8 +30,7 @@ StartupEvents.registry("block", (event) => {
         );
       }
     });
-});
-StartupEvents.registry("block", (event) => {
+
   event
     .create("lucky_block")
     .textureAll("minecraft:block/structure_block")
