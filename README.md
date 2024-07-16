@@ -32,13 +32,13 @@ Primarly used at endgame or kill score count
 
    A tool that can store and place virtual blocks!
 
-  ![image](url)
+  ![image](https://github.com/DevDyna/ContentArchive/blob/main/Gunpowder/matrix_pick.gif?raw=true)
 
 - [**MEDIKIT AND HEART POINTS**](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/server_scripts/medikit.js)
 
   An intuitive medikit that absorb heart points (obtainable from luckyblock) that can cure player when lose hearts
 
-  ![image](url)
+  ![image](https://github.com/DevDyna/ContentArchive/blob/main/Gunpowder/medikit.gif?raw=true)
 
 - [**LUCKY BLOCK**](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/server_scripts/lucky.js)
 
@@ -48,7 +48,7 @@ Primarly used at endgame or kill score count
 
   After joined any server it will reward you with a full kit with any useful item to start the game!
 
-  ![image](url)
+  ![image](https://github.com/DevDyna/ContentArchive/blob/main/Gunpowder/lootcrate.gif?raw=true)
 
 - [**HEALER**](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/startup_scripts/blocks%26items.js#L22)
 
