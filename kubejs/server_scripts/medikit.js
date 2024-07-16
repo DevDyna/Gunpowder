@@ -42,3 +42,27 @@ EntityEvents.hurt((event) => {
     }
   }
 });
+
+ItemEvents.rightClicked("kubejs:hp_point",event => {
+  const { player, item } = event;
+  const { inventory } = player;
+  let place = inventory.find("kubejs:medikit_portable");
+  let itemfound;
+  itemfound = inventory.getItem(place);
+  if (itemfound.nbt == null) {
+    itemfound.nbt = { medikits: 0 };
+  } else {
+    player.swing()
+    if(player.isCrouching()){
+      itemfound.nbt = { medikits: itemfound.nbt.medikits + item.count };
+    item.count = 0
+    }else{
+      itemfound.nbt = { medikits: itemfound.nbt.medikits + 1 };
+    item.count--
+    }
+    
+    player.statusMessage =
+      "§a<Medikits increase to " + itemfound.nbt.medikits + ">";
+      
+  }
+})
