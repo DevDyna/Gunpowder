@@ -1,0 +1,53 @@
+   
+   __  __           _                       _    ____                                    ____            _         
+  |  \/  | ___   __| |___    __ _ _ __   __| |  |  _ \ ___  ___  ___  _   _ _ __ ___ ___|  _ \ __ _  ___| | _____  
+  | |\/| |/ _ \ / _` / __|  / _` | '_ \ / _` |  | |_) / _ \/ __|/ _ \| | | | '__/ __/ _ \ |_) / _` |/ __| |/ / __| 
+  | |  | | (_) | (_| \__ \ | (_| | | | | (_| |  |  _ <  __/\__ \ (_) | |_| | | | (_|  __/  __/ (_| | (__|   <\__ \ 
+  |_|  |_|\___/ \__,_|___/  \__,_|_| |_|\__,_|  |_| \_\___||___/\___/ \__,_|_|  \___\___|_|   \__,_|\___|_|\_\___/ 
+   
+File that contain all curseforge files 
+Mod used: 
+-architectury-9.2.14-forge.jar 
+-bml-1.20.1-1.1.8.jar 
+-cloth-config-11.1.118-forge.jar 
+-Controlling-forge-1.20.1-12.0.2.jar 
+-corpse-forge-1.20.1-1.0.12.jar 
+-CreativeCore_FORGE_v2.11.31_mc1.20.1.jar 
+-curios-forge-5.9.1+1.20.1.jar 
+-embeddium-0.3.25+mc1.20.1.jar 
+-emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar 
+-ferritecore-6.0.1-forge.jar 
+-grappling_hook_mod-1.20.1-1.20.1-v13.jar 
+-Highlighter-1.20.1-forge-1.1.9.jar 
+-Iceberg-1.20.1-forge-1.1.21.jar 
+-ImmediatelyFast-Forge-1.2.18+1.20.4.jar 
+-InventoryFree-1.20.1-3.2.1.jar 
+-ItemBorders-1.20.1-forge-1.2.1.jar 
+-ItemPhysicLite_FORGE_v1.6.4_mc1.20.1.jar 
+-Jet-Boots-1.20.1-1.2.6.jar 
+-kubejs-forge-2001.6.5-build.14.jar 
+-LegendaryTooltips-1.20.1-forge-1.4.5.jar 
+-loot_journal-3.1.1.jar 
+-lradd-1.20.1-0.2.1.jar 
+-modernfix-forge-5.18.6+mc1.20.1.jar 
+-MouseTweaks-forge-mc1.20.1-2.25.1.jar 
+-notenoughanimations-forge-1.7.4-mc1.20.1.jar 
+-player-animation-lib-forge-1.0.2-rc1+1.20.jar 
+-Prism-1.20.1-forge-1.0.5.jar 
+-rhino-forge-2001.2.2-build.18.jar 
+-Searchables-forge-1.20.1-1.0.3.jar 
+-sound-physics-remastered-forge-1.20.1-1.4.5.jar 
+-tacz-1.20.1-1.0.2-release.jar 
+-tia-1.20-1.1-forge.jar 
+-vc_gliders-forge-1.1.5.jar 
+-walljump-1.20.1-1.2.1-forge.jar 
+-WI-Zoom-1.5-MC1.20.1-Forge.jar 
+-Xaeros_Minimap_FP24.1.1_Forge_1.20.jar 
+-[1.20.1][Forge] 
+# 
+# 37 files 
+# 
+ResourcePack used: 
+# 
+# 0 files 
+# 
