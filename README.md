@@ -4,7 +4,7 @@
  
 # All Features:
 
-## MOD USED
+### MODS
 [**HERE**](https://github.com/DevDyna/Gunpowder/blob/main/.curselist.txt)
 
 
