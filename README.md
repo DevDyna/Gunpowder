@@ -40,6 +40,14 @@ Primarly used at endgame or kill score count
 
   A classic Lucky block that can be broken on survival to obtain a random list of items stored on [variable.js](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/server_scripts/variables.js)
 
+- [**LOOT CRATE**](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/server_scripts/loot_crate.js)
+
+  After joined any server it will reward you with a full kit with any useful item to start the game!
+
+- [**HEALER**](https://github.com/DevDyna/Gunpowder/blob/main/kubejs/startup_scripts/blocks%26items.js#L22)
+
+  A block that can heal you when on top , not else
+
 ## CONFIG
 - [**RPG HUD**](https://github.com/DevDyna/Gunpowder/blob/main/config/RPG-HUD) Pre configured
 
